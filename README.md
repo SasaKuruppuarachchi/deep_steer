@@ -1,8 +1,9 @@
 # deep_steer
 Steering using deep learning
 
+How to run
 ```
-How to run Kuruppu Arachchige Sasanka 2021227162
+
 
 Run 'roscore'
 cd to Copellia sim root directory './coppeliaSim.sh'
